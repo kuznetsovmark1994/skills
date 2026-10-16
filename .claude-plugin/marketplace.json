@@ -1,0 +1,21 @@
+{
+  "name": "mark-skills",
+  "owner": {
+    "name": "kuznetsovmark1994"
+  },
+  "metadata": {
+    "description": "Открытые скиллы Марка для учеников",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "balans-raboty-i-zhizni",
+      "description": "Тест «Баланс работы и жизни»: 7 вопросов, 3 результата, обсуждение и шаги на неделю",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/balans-raboty-i-zhizni"
+      ]
+    }
+  ]
+}
