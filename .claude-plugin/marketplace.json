@@ -16,6 +16,15 @@
       "skills": [
         "./skills/balans-raboty-i-zhizni"
       ]
+    },
+    {
+      "name": "gde-primenyat-ii",
+      "description": "Упражнение «Где применять ИИ»: одна задача → чем поможет ИИ → проба → проверка",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/gde-primenyat-ii"
+      ]
     }
   ]
 }

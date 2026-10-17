@@ -7,6 +7,7 @@
 | Скилл | Что делает | Ссылка для чата |
 | --- | --- | --- |
 | [Баланс работы и жизни](skills/balans-raboty-i-zhizni/SKILL.md) | Шуточный тест из 7 вопросов, один из трёх результатов, обсуждение и карточка с шагами на неделю. 10–15 минут. | [raw](https://raw.githubusercontent.com/kuznetsovmark1994/skills/main/skills/balans-raboty-i-zhizni/SKILL.md) |
+| [Где применять ИИ](skills/gde-primenyat-ii/SKILL.md) | Одна твоя задача: чем поможет ИИ, готовый запрос, первая проба и проверка результата. Итог — что пробуешь и как заметишь результат. | [raw](https://raw.githubusercontent.com/kuznetsovmark1994/skills/main/skills/gde-primenyat-ii/SKILL.md) |
 
 ## Материалы
 
