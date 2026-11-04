@@ -8,6 +8,8 @@
 | --- | --- | --- |
 | [Баланс работы и жизни](skills/balans-raboty-i-zhizni/SKILL.md) | Шуточный тест из 7 вопросов, один из трёх результатов, обсуждение и карточка с шагами на неделю. 10–15 минут. | [raw](https://raw.githubusercontent.com/kuznetsovmark1994/skills/main/skills/balans-raboty-i-zhizni/SKILL.md) |
 | [Где применять ИИ](skills/gde-primenyat-ii/SKILL.md) | Одна твоя задача: чем поможет ИИ, готовый запрос, первая проба и проверка результата. Итог — что пробуешь и как заметишь результат. | [raw](https://raw.githubusercontent.com/kuznetsovmark1994/skills/main/skills/gde-primenyat-ii/SKILL.md) |
+| [Сценарий ролика](skills/reels-script/SKILL.md) | Совместный разбор идеи или референса, хуки, причинная история и рентген. | [raw](https://raw.githubusercontent.com/kuznetsovmark1994/skills/main/skills/reels-script/SKILL.md) |
+| [Раскадровка ролика](skills/reel-storyboard/SKILL.md) | Сцены, кадры до/после, движение или графика и отдельные промты. | [raw](https://raw.githubusercontent.com/kuznetsovmark1994/skills/main/skills/reel-storyboard/SKILL.md) |
 
 ## Материалы
 
@@ -57,3 +59,9 @@
 2. Запись о скилле в [`.claude-plugin/marketplace.json`](.claude-plugin/marketplace.json).
 3. `./tools/build.sh` — пересобрать архивы в `dist/`.
 4. Строка в таблицу «Скиллы» выше, со ссылкой raw.
+
+## Для творческого блока курса
+
+Сначала подключите [сценарий](skills/reels-script/SKILL.md) и [раскадровку](skills/reel-storyboard/SKILL.md). Затем используйте [примеры совместных запросов](skills/reels-script/prompts.md): идея или референс → вопросы → выбор замысла → текст и кадры → проверка. Готовые архивы: [reels-script.zip](dist/reels-script.zip) и [reel-storyboard.zip](dist/reel-storyboard.zip).
+
+Учебные версии подготовлены из рабочих методов Марка Кузнецова. Примеры и правила своего голоса заполняются под автора. Пересказы платных лекций и закрытая библиотека в комплект не включены.

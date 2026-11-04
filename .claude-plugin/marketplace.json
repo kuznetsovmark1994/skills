@@ -25,6 +25,24 @@
       "skills": [
         "./skills/gde-primenyat-ii"
       ]
+    },
+    {
+      "name": "reels-script",
+      "description": "Идея, интервью, сценарий и рентген смысла и удержания",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/reels-script"
+      ]
+    },
+    {
+      "name": "reel-storyboard",
+      "description": "Сцены, кадры до/после, движение, графика и отдельные промты",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/reel-storyboard"
+      ]
     }
   ]
 }
