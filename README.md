@@ -11,6 +11,10 @@
 | [Сценарий ролика](skills/reels-script/SKILL.md) | Совместный разбор идеи или референса, хуки, причинная история и рентген. | [raw](https://raw.githubusercontent.com/kuznetsovmark1994/skills/main/skills/reels-script/SKILL.md) |
 | [Раскадровка ролика](skills/reel-storyboard/SKILL.md) | Сцены, кадры до/после, движение или графика и отдельные промты. | [raw](https://raw.githubusercontent.com/kuznetsovmark1994/skills/main/skills/reel-storyboard/SKILL.md) |
 
+| [Промты картинок для ролика](skills/reel-image-prompts/SKILL.md) | Подготовить отдельные промты кадров А и Б по принятой раскадровке, сохранить героя, ракурс, предметы и свет. | [raw](https://raw.githubusercontent.com/kuznetsovmark1994/skills/main/skills/reel-image-prompts/SKILL.md) |
+| [Промты оживления кадров](skills/reel-motion-prompts/SKILL.md) | Подготовить промт движения между кадрами А и Б: действие, физическая причина, камера, темп и финальное состояние. | [raw](https://raw.githubusercontent.com/kuznetsovmark1994/skills/main/skills/reel-motion-prompts/SKILL.md) |
+| [Критик кадров и видео](skills/reel-visual-critic/SKILL.md) | Проверить готовые кадры и клипы: смысл, узнаваемость, физические причины и движение; дать конкретную правку с местом или таймкодом. | [raw](https://raw.githubusercontent.com/kuznetsovmark1994/skills/main/skills/reel-visual-critic/SKILL.md) |
+
 ## Материалы
 
 | Материал | О чём |
@@ -65,3 +69,5 @@
 Сначала подключите [сценарий](skills/reels-script/SKILL.md) и [раскадровку](skills/reel-storyboard/SKILL.md). Затем используйте [примеры совместных запросов](skills/reels-script/prompts.md): идея или референс → вопросы → выбор замысла → текст и кадры → проверка. Готовые архивы: [reels-script.zip](dist/reels-script.zip) и [reel-storyboard.zip](dist/reel-storyboard.zip).
 
 Учебные версии подготовлены из рабочих методов Марка Кузнецова. Примеры и правила своего голоса заполняются под автора. Пересказы платных лекций и закрытая библиотека в комплект не включены.
+
+Для урока по раскадровке: [картинки](dist/reel-image-prompts.zip), [оживление](dist/reel-motion-prompts.zip), [критик](dist/reel-visual-critic.zip). Дополнительные возможности можно изучить в [OpenMontage](https://github.com/calesthio/OpenMontage).

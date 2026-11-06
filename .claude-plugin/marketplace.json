@@ -43,6 +43,33 @@
       "skills": [
         "./skills/reel-storyboard"
       ]
+    },
+    {
+      "name": "reel-image-prompts",
+      "description": "Подготовить отдельные промты кадров А и Б по принятой раскадровке, сохранить героя, ракурс, предметы и свет.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/reel-image-prompts"
+      ]
+    },
+    {
+      "name": "reel-motion-prompts",
+      "description": "Подготовить промт движения между кадрами А и Б: действие, физическая причина, камера, темп и финальное состояние.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/reel-motion-prompts"
+      ]
+    },
+    {
+      "name": "reel-visual-critic",
+      "description": "Проверить готовые кадры и клипы: смысл, узнаваемость, физические причины и движение; дать конкретную правку с местом или таймкодом.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/reel-visual-critic"
+      ]
     }
   ]
 }
