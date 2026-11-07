@@ -70,6 +70,15 @@
       "skills": [
         "./skills/reel-visual-critic"
       ]
+    },
+    {
+      "name": "reel-voice",
+      "description": "Озвучка ролика синтезом: разметка текста, клон и три пробы, озвучка блоками, сверка слов и щелчки, таблица сцен для монтажа",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/reel-voice"
+      ]
     }
   ]
 }

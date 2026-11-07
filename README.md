@@ -14,6 +14,7 @@
 | [Промты картинок для ролика](skills/reel-image-prompts/SKILL.md) | Подготовить отдельные промты кадров А и Б по принятой раскадровке, сохранить героя, ракурс, предметы и свет. | [raw](https://raw.githubusercontent.com/kuznetsovmark1994/skills/main/skills/reel-image-prompts/SKILL.md) |
 | [Промты оживления кадров](skills/reel-motion-prompts/SKILL.md) | Подготовить промт движения между кадрами А и Б: действие, физическая причина, камера, темп и финальное состояние. | [raw](https://raw.githubusercontent.com/kuznetsovmark1994/skills/main/skills/reel-motion-prompts/SKILL.md) |
 | [Критик кадров и видео](skills/reel-visual-critic/SKILL.md) | Проверить готовые кадры и клипы: смысл, узнаваемость, физические причины и движение; дать конкретную правку с местом или таймкодом. | [raw](https://raw.githubusercontent.com/kuznetsovmark1994/skills/main/skills/reel-visual-critic/SKILL.md) |
+| [Голос ролика](skills/reel-voice/SKILL.md) | Разметка текста до синтеза (ударения, числа, паузы), клон и три пробы одной фразы, озвучка блоками, сверка слов и щелчки, таблица сцен для монтажа. | [raw](https://raw.githubusercontent.com/kuznetsovmark1994/skills/main/skills/reel-voice/SKILL.md) |
 
 ## Материалы
 
