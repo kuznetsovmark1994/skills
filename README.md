@@ -26,6 +26,8 @@
 
 | [Формат презентаций Марка](skills/presentation-format/SKILL.md) | Смысловая структура: схемы, причины, от общего к частному, одна мысль на слайд, акценты и рассказ без повторов. Оформление задаётся отдельным скиллом. | [raw](https://raw.githubusercontent.com/kuznetsovmark1994/skills/main/skills/presentation-format/SKILL.md) |
 
+| [Всё по полочкам](skills/vse-po-polochkam/SKILL.md) | База из своих заметок и конспектов, содержание со ссылками, проверка ответов и применение знаний. | [raw](https://raw.githubusercontent.com/kuznetsovmark1994/skills/main/skills/vse-po-polochkam/SKILL.md) |
+
 ## Материалы
 
 | Материал | О чём |

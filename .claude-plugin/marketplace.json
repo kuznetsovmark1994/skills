@@ -151,6 +151,15 @@
       "skills": [
         "./skills/reel-publish"
       ]
+    },
+    {
+      "name": "vse-po-polochkam",
+      "description": "Собрать личную базу знаний, сделать содержание, проверить поиск по источникам и применить материалы к своей задаче.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/vse-po-polochkam"
+      ]
     }
   ]
 }
