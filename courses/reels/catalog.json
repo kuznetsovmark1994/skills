@@ -1,0 +1,125 @@
+{
+  "version": "2026-11-07-course-r11",
+  "groups": [
+    {
+      "stage": 0,
+      "title": "Старт",
+      "skills": [
+        {
+          "slug": "reel-project",
+          "title": "Проект ролика",
+          "caption": "Бриф, материалы и следующий шаг",
+          "url": "https://github.com/kuznetsovmark1994/skills/blob/main/skills/reel-project/SKILL.md"
+        }
+      ]
+    },
+    {
+      "stage": 1,
+      "title": "Сценарий",
+      "skills": [
+        {
+          "slug": "reels-script",
+          "title": "Сценарий",
+          "caption": "Замысел, хук и история",
+          "url": "https://github.com/kuznetsovmark1994/skills/blob/main/skills/reels-script/SKILL.md"
+        },
+        {
+          "slug": "reel-script-critic",
+          "title": "Критик сценария",
+          "caption": "Логика, интерес и ответ на хук",
+          "url": "https://github.com/kuznetsovmark1994/skills/blob/main/skills/reel-script-critic/SKILL.md"
+        }
+      ]
+    },
+    {
+      "stage": 2,
+      "title": "Раскадровка",
+      "skills": [
+        {
+          "slug": "reel-storyboard",
+          "title": "Раскадровка",
+          "caption": "Сцены и пары А/Б",
+          "url": "https://github.com/kuznetsovmark1994/skills/blob/main/skills/reel-storyboard/SKILL.md"
+        },
+        {
+          "slug": "reel-image-prompts",
+          "title": "Промты картинок",
+          "caption": "Промты согласованных кадров",
+          "url": "https://github.com/kuznetsovmark1994/skills/blob/main/skills/reel-image-prompts/SKILL.md"
+        },
+        {
+          "slug": "reel-motion-prompts",
+          "title": "Промты оживления",
+          "caption": "Действие, камера и переход",
+          "url": "https://github.com/kuznetsovmark1994/skills/blob/main/skills/reel-motion-prompts/SKILL.md"
+        },
+        {
+          "slug": "reel-visual-critic",
+          "title": "Критик кадров и клипов",
+          "caption": "Смысл, сходство и движение",
+          "url": "https://github.com/kuznetsovmark1994/skills/blob/main/skills/reel-visual-critic/SKILL.md"
+        }
+      ]
+    },
+    {
+      "stage": 3,
+      "title": "Голос",
+      "skills": [
+        {
+          "slug": "reel-voice",
+          "title": "Голос в ElevenLabs",
+          "caption": "ElevenLabs, пробы, слова и щелчки",
+          "url": "https://github.com/kuznetsovmark1994/skills/blob/main/skills/reel-voice/SKILL.md"
+        }
+      ]
+    },
+    {
+      "stage": 4,
+      "title": "Аватар",
+      "skills": [
+        {
+          "slug": "reel-avatar",
+          "title": "Аватар",
+          "caption": "HeyGen по готовому голосу",
+          "url": "https://github.com/kuznetsovmark1994/skills/blob/main/skills/reel-avatar/SKILL.md"
+        }
+      ]
+    },
+    {
+      "stage": 5,
+      "title": "Монтаж и графика",
+      "skills": [
+        {
+          "slug": "reel-edit",
+          "title": "Монтаж и графика",
+          "caption": "Клипы, графика и субтитры",
+          "url": "https://github.com/kuznetsovmark1994/skills/blob/main/skills/reel-edit/SKILL.md"
+        },
+        {
+          "slug": "reel-edit-critic",
+          "title": "Критик монтажа",
+          "caption": "Стыки, тайминги и читаемость",
+          "url": "https://github.com/kuznetsovmark1994/skills/blob/main/skills/reel-edit-critic/SKILL.md"
+        }
+      ]
+    },
+    {
+      "stage": 6,
+      "title": "Музыка и выпуск",
+      "skills": [
+        {
+          "slug": "reel-sound",
+          "title": "Музыка и звук",
+          "caption": "Музыка, эффекты и сведение",
+          "url": "https://github.com/kuznetsovmark1994/skills/blob/main/skills/reel-sound/SKILL.md"
+        },
+        {
+          "slug": "reel-publish",
+          "title": "Выпуск ролика",
+          "caption": "Обложка, название и пакет выпуска",
+          "url": "https://github.com/kuznetsovmark1994/skills/blob/main/skills/reel-publish/SKILL.md"
+        }
+      ]
+    }
+  ]
+}
