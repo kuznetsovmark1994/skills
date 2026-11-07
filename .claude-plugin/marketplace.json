@@ -79,6 +79,15 @@
       "skills": [
         "./skills/reel-voice"
       ]
+    },
+    {
+      "name": "presentation-format",
+      "description": "Формат рассказа: схемы, причины и следствия, от общего к частному, одна мысль на слайд, акценты и отсутствие повторов.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/presentation-format"
+      ]
     }
   ]
 }
