@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-07-course-r11",
+  "version": "2026-11-07-course-r13",
   "groups": [
     {
       "stage": 0,
@@ -10,6 +10,12 @@
           "title": "Проект ролика",
           "caption": "Бриф, материалы и следующий шаг",
           "url": "https://github.com/kuznetsovmark1994/skills/blob/main/skills/reel-project/SKILL.md"
+        },
+        {
+          "slug": "reel-reference",
+          "title": "Референс и стиль",
+          "caption": "Видео, кадры, графика и принятые правки",
+          "url": "https://github.com/kuznetsovmark1994/skills/blob/main/skills/reel-reference/SKILL.md"
         }
       ]
     },

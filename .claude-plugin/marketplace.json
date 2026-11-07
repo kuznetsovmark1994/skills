@@ -151,6 +151,15 @@
       "skills": [
         "./skills/reel-publish"
       ]
+    },
+    {
+      "name": "reel-reference",
+      "description": "Видео, кадры, графика и принятые правки",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/reel-reference"
+      ]
     }
   ]
 }

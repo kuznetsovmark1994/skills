@@ -1,6 +1,6 @@
 # Скиллы Марка
 
-Открытые скиллы для ИИ: для учеников и всех, кому пригодится. Каждый скилл — один файл `SKILL.md` с инструкцией, по которой ИИ помогает выполнить задачу. Работают в Claude и ChatGPT, на телефоне и на компьютере.
+Открытые скиллы для ИИ: для учеников и всех, кому пригодится. Каждый скилл начинается с `SKILL.md`; некоторые включают помощники и связанные материалы. Возможности зависят от инструментов выбранного ИИ: например, разбор видео из ссылки требует доступа к медиа, а локальный помощник работает в Codex / Claude на компьютере.
 
 ## Скиллы
 
@@ -10,12 +10,11 @@
 | [Где применять ИИ](skills/gde-primenyat-ii/SKILL.md) | Одна твоя задача: чем поможет ИИ, готовый запрос, первая проба и проверка результата. Итог — что пробуешь и как заметишь результат. | [raw](https://raw.githubusercontent.com/kuznetsovmark1994/skills/main/skills/gde-primenyat-ii/SKILL.md) |
 | [Сценарий ролика](skills/reels-script/SKILL.md) | Совместный разбор идеи или референса, хуки, причинная история и рентген. | [raw](https://raw.githubusercontent.com/kuznetsovmark1994/skills/main/skills/reels-script/SKILL.md) |
 | [Раскадровка ролика](skills/reel-storyboard/SKILL.md) | Сцены, кадры до/после, движение или графика и отдельные промты. | [raw](https://raw.githubusercontent.com/kuznetsovmark1994/skills/main/skills/reel-storyboard/SKILL.md) |
-
 | [Промты картинок для ролика](skills/reel-image-prompts/SKILL.md) | Подготовить отдельные промты кадров А и Б по принятой раскадровке, сохранить героя, ракурс, предметы и свет. | [raw](https://raw.githubusercontent.com/kuznetsovmark1994/skills/main/skills/reel-image-prompts/SKILL.md) |
 | [Промты оживления кадров](skills/reel-motion-prompts/SKILL.md) | Подготовить промт движения между кадрами А и Б: действие, физическая причина, камера, темп и финальное состояние. | [raw](https://raw.githubusercontent.com/kuznetsovmark1994/skills/main/skills/reel-motion-prompts/SKILL.md) |
 | [Критик кадров и видео](skills/reel-visual-critic/SKILL.md) | Проверить готовые кадры и клипы: смысл, узнаваемость, физические причины и движение; дать конкретную правку с местом или таймкодом. | [raw](https://raw.githubusercontent.com/kuznetsovmark1994/skills/main/skills/reel-visual-critic/SKILL.md) |
 | [Голос ролика](skills/reel-voice/SKILL.md) | Разметка текста до синтеза (ударения, числа, паузы), клон и три пробы одной фразы, озвучка блоками, сверка слов и щелчки, таблица сцен для монтажа. | [raw](https://raw.githubusercontent.com/kuznetsovmark1994/skills/main/skills/reel-voice/SKILL.md) |
-
+| [Референс и стиль](skills/reel-reference/SKILL.md) | Видео из Instagram / YouTube: речь, кадры, графика, движение и принятые правила. | [raw](https://raw.githubusercontent.com/kuznetsovmark1994/skills/main/skills/reel-reference/SKILL.md) |
 | [Проект ролика](skills/reel-project/SKILL.md) | Бриф, материалы и следующий шаг | [raw](https://raw.githubusercontent.com/kuznetsovmark1994/skills/main/skills/reel-project/SKILL.md) |
 | [Критик сценария](skills/reel-script-critic/SKILL.md) | Логика, интерес и ответ на хук | [raw](https://raw.githubusercontent.com/kuznetsovmark1994/skills/main/skills/reel-script-critic/SKILL.md) |
 | [Аватар](skills/reel-avatar/SKILL.md) | HeyGen по готовому голосу | [raw](https://raw.githubusercontent.com/kuznetsovmark1994/skills/main/skills/reel-avatar/SKILL.md) |
@@ -23,7 +22,6 @@
 | [Критик монтажа](skills/reel-edit-critic/SKILL.md) | Стыки, тайминги и читаемость | [raw](https://raw.githubusercontent.com/kuznetsovmark1994/skills/main/skills/reel-edit-critic/SKILL.md) |
 | [Музыка и звук](skills/reel-sound/SKILL.md) | Музыка, эффекты и сведение | [raw](https://raw.githubusercontent.com/kuznetsovmark1994/skills/main/skills/reel-sound/SKILL.md) |
 | [Выпуск ролика](skills/reel-publish/SKILL.md) | Обложка, название и пакет выпуска | [raw](https://raw.githubusercontent.com/kuznetsovmark1994/skills/main/skills/reel-publish/SKILL.md) |
-
 | [Формат презентаций Марка](skills/presentation-format/SKILL.md) | Смысловая структура: схемы, причины, от общего к частному, одна мысль на слайд, акценты и рассказ без повторов. Оформление задаётся отдельным скиллом. | [raw](https://raw.githubusercontent.com/kuznetsovmark1994/skills/main/skills/presentation-format/SKILL.md) |
 
 ## Материалы
@@ -77,7 +75,7 @@
 
 ## Для творческого блока курса
 
-[Полный набор по урокам](courses/reels/README.md): 13 учебных скиллов — проект, сценарий и критик, раскадровка, промты картинок и оживления, визуальный критик, ElevenLabs с проверками, аватар, монтаж и критик, музыка и выпуск. [Скачать весь набор](dist/reel-course-kit.zip).
+[Полный набор по урокам](courses/reels/README.md): 14 учебных скиллов — проект, разбор видеореференса и стиля, сценарий и критик, раскадровка, промты картинок и оживления, визуальный критик, ElevenLabs с проверками, аватар, монтаж и критик, музыка и выпуск. [Скачать весь набор](dist/reel-course-kit.zip).
 
 Начните со скилла текущего урока. В каталоге у каждого есть описание и отдельный ZIP. Учебные версии содержат методы работы; личный профиль, записи, данные аккаунтов и внутренние настройки автора в публикацию не входят.
 
